@@ -1,2 +1,5 @@
 *.class
 blockdata/*
+.settings
+.classpath
+.project
